@@ -12,13 +12,13 @@
     "build": "react-scripts build",
     "test-react": "react-scripts test",
     "eject": "react-scripts eject"
-    
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
+    "build": "^0.1.4",
     "cors": "^2.8.5",
     "country-iso-2-to-3": "^1.1.0",
     "dotenv": "^16.3.1",
